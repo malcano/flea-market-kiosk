@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.2.2-646CFF.svg)](https://vitejs.dev/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-flea--market--kiosk.pages.dev-success.svg?style=flat-square)](https://flea-market-kiosk.pages.dev/)
 
 아이패드(iPad) 및 태블릿 환경에 최적화된 오프라인 플리마켓/팝업스토어 전용 무인 결제 키오스크 웹 애플리케이션입니다. 
 
